@@ -1,22 +1,36 @@
-Welcome to Lumache's documentation!
+front end developer and designer
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+I am professional Senior Front End developer as a PSD2HTML specialist since 2013, In my professional career
+i have done more then 350 projects with different techniques, i have strong grip on Bootstrap, Sass, Less, Zurb-Foundation, Jquery and css3.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+ HTML5
+CSS3
+Bootstrap
+Zurb Foundation
+Materialize
+SASS
+LESS
+JQuery
+Responsive template
+Cross-browser compatibility
+Pixel perfect design
+Clean code
+Integrate custom fonts
+W3C validated
 
-Contents
---------
+show case website 
 
-.. toctree::
 
-   usage
-   api
+[파워볼사이트 커뮤니티](https://wmpro.io)
+[파워볼추천사이트 블로그](https://systemsacademy.io)
+[동행복권 파워볼사이트](https://systemsacademy.io)
+
+
+-`파워볼사이트 <https://systemsacademy.io/>`_
+
+
+-`동행복권 파워볼사이트 <https://systemsacademy.io/>`_
